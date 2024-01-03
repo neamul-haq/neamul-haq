@@ -6,10 +6,10 @@
     <img src="https://cp-logo.vercel.app/leetcode/Neamul_haq/" alt="Leet code rating" />
   </a>
 <a href="https://codeforces.com/profile/Neyamul_Haq">
-    <img src="https://raw.githubusercontent.com/Neyamul_Haq/cf-stats/main/output/max_rating.svg" alt="CF rating" />
+    <img src="https://raw.githubusercontent.com/neamul-haq/cf-stats/main/output/max_rating.svg" alt="CF rating" />
   </a>
-  <a href="https://github.com/Rudro-25?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Rudro-25?color=green&logo=github">
+  <a href="https://github.com/neamul-haq?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/neamul-haq?color=green&logo=github">
   </a>
   <a href="https://github.com/neamul-haq?tab=repositories">
    <img src="https://komarev.com/ghpvc/?username=neamul-haq&label=Profile%20views&color=0e75b6&style=flat" alt="neamul_haq" /> 
@@ -35,7 +35,6 @@
 - 🌱 Learning all about **Competitive Programming**
 - 💬 Ping me about **Cpp**, **Problem-Setting**, **Problem-Testing**, **Competitive-Training**
 - 📫 Reach me: **neamul.cse6.bu@gmail.com**
-- 📝 Checkout my [Resume](https://).
   
   </td>
 </tr>
@@ -102,7 +101,7 @@
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/Neamul_haq?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/Neyamul_Haq/cf-stats/main/output/light_card.svg" />
+<img height="280em" src="https://raw.githubusercontent.com/neamul-haq/cf-stats/main/output/light_card.svg" />
 </p>
 <h3 align="center">My Statistics:</h3>
 <p align="center">
