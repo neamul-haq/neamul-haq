@@ -6,7 +6,7 @@
     <img src="https://cp-logo.vercel.app/leetcode/Neamul_haq/" alt="Leet code rating" />
   </a>
 <a href="https://codeforces.com/profile/Neyamul_Haq">
-    <img src="https://raw.githubusercontent.com/neamul-haq/cf-stats/main/output/max_rating.svg" alt="CF rating" />
+    <img src="https://github.com/neamul-haq/cf-statistics/blob/main/output/max_rating.svg" alt="CF rating" />
   </a>
   <a href="https://github.com/neamul-haq?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/neamul-haq?color=green&logo=github">
@@ -101,7 +101,7 @@
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/Neamul_haq?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/neamul-haq/cf-stats/main/output/light_card.svg" />
+<img height="280em" src="https://github.com/neamul-haq/cf-statistics/blob/main/output/light_card.svg#gh-dark-mode-only." />
 </p>
 <h3 align="center">My Statistics:</h3>
 <p align="center">
