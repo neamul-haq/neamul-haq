@@ -10,6 +10,9 @@
 <a href="https://codeforces.com/profile/Neyamul_Haq">
     <img src="https://github.com/neamul-haq/cf-statistics/blob/main/output/max_rating.svg" alt="CF rating" />
   </a>
+  <a href="https://www.codechef.com/users/no_one22">
+    <img height='20px' width='80px'  style="object-fit: cover" src="https://asset.brandfetch.io/idM2-b7Taf/id6L822oFL.jpeg" alt="CodeChef" />
+  </a>
   <a href="https://github.com/neamul-haq?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/neamul-haq?color=green&logo=github">
   </a>
