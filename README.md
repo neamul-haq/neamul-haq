@@ -46,13 +46,39 @@
 </tr>
 </table>
 
+<h3> About Me </h3>
+<ul>
+  <li> 🎓 Completed Bachelor of Science degree from <a href = "https://bu.ac.bd/"> University of Barishal, Barishal, Bangladesh. </a> </li>
+  <li> 💡 Participated in various Onsite contests like ACM ICPC Onsites, IUPC's. </li>
+  <li> 💡 Solved more than 1.3K problems and participated more than 130 contests on different online judges like: <a href="https://codeforces.com/profile/Neyamul_Haq">Codeforces</a>, <a href="https://www.codechef.com/users/no_one22">CodeChef</a>,  
+    <a href="https://leetcode.com/Neamul_haq/">LeetCode</a> </li>
+  <li> 📖 Built a strong foundation on Data Structures and Algorithms. </li>
+  <!---
+  <li> ≡ Gained solid knowledge of Front-End Development involving ReactJS, Redux, RESTful API, HTML, CSS. </li>
+</ul>
+-->
+
+### My Achievements
+<ul>
+  <li> 💡<a href = "https://ugv.edu.bd](https://bapsoj.org/contests/icpc-dhaka-regional-site-2023/standings">Ranked 117<sup>th</sup> in International Collegiate Programming Contest(ICPC)-2023.</a> </li>
+  <li> 💡<a href = "https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings">Ranked  106<sup>th</sup> in National Collegiate Programming Contest(NCPC)-2024.</a> </li>
+  <li> 💡 Secured 2<sup>nd</sup> position at Phitron Monthly Contest-2023. </li>
+  <li> 💡 <a href = "https://www.hackerrank.com/contests/intra-department-programming-contest-2023-csebu/leaderboard">Secured 11<sup>th</sup> position at Intra Department Programming Contest 2023-CSE,BU.</a> </li>
+  <li> 💡 Participate in SUST, CUET IUPCs Onsite Team Contests in 2024</li>
+</ul>
+
+### Problem-Solving Profile
+| OJ | Username | No. of Problem | Max Rating | No. of Contest |
+| -- | -------- | ----------- | -------| -------|          
+| Codeforces | [Neyamul_Haq](https://codeforces.com/profile/Neyamul_Haq)| 667 | 1384 | 73 |
+| Codechef | [no_one22](https://www.codechef.com/users/no_one22) | 157 | 1642 | 24 |
+| Leetcode | [Neamul_haq](https://leetcode.com/Neamul_haq/) | 177 | - | - |
+| Vjudge | [BU0634_neamul](https://vjudge.net/user/neamul_haq) | 87 | - | 15 |
+
 ---
 <h3 align="center">Connect With Me:</h3>
 
 <p align="center">
-<a href="https://twitter.com/neamul_haq">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
 <a href="https://www.linkedin.com/in/neamulhaq/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
@@ -64,16 +90,6 @@
 </a>
   <a href="https://discordapp.com/users/1112011885018107905">
   <img src="https://img.shields.io/badge/Discord-12100E?style=for-the-badge&logo=discord&logoColor=white" height=25>
-</a>
-
-  <a href="https://codeforces.com/profile/Neyamul_Haq">
-  <img src="https://img.shields.io/badge/Codeforces-12100E?style=for-the-badge&logo=codeforces&logoColor=white" height=25>
-</a>
-  <a href="https://leetcode.com/Neamul_haq/">
-  <img src="https://img.shields.io/badge/LeetCode-12100E?style=for-the-badge&logo=leetcode&logoColor=white" height=25>
-</a>
-  <a href="https://www.codechef.com/users/no_one22">
-  <img src="https://img.shields.io/badge/Codechef-12100E?style=for-the-badge&logo=codechef&logoColor=white" height=25>
 </a>
 </p>
 
