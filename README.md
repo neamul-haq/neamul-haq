@@ -114,12 +114,12 @@
 ---
 
 <b>&#128200; Competitive Programming</b>
-<p float="left">
+<span float="left">
 <img height="280em" src="https://github.com/neamul-haq/cf-statistics/blob/main/output/light_card.svg#gh-dark-mode-only." />
-</p>
-<p float="right">
+</span>
+<span float="right">
   <img height="273em" width="40%" src="https://leetcard.jacoblin.cool/Neamul_haq?theme=light&font=Karma&ext=contest" />
-</p>
+</span>
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
