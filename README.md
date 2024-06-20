@@ -25,8 +25,6 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-  
-  <h3 align="center">Bio</h3>
 
 - :calendar: Looking to contribute to web-based open source projects
 - 📝 Checkout my <a href="https://drive.google.com/file/d/1FlDKvzotDJe2Lj1OO5YjjidRSrRv7Ndr/view?usp=sharing" target="_blank">Resume</a>
