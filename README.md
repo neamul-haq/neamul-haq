@@ -3,7 +3,7 @@
 <h1 align="center">WELCOME TO MY GitHub PROFILE!</h1>
 <h1 align="center">Hi 👋, I'm Neamul Haq</h1>
 <h5 align="center">Competitive Programmer & Backend Web Developerr</h5>
-<h3 align="center">Exploring the Boundless World of Technology</h3>
+<h3 align="center">Looking For Software Engineering Role</h3>
 <p align="center"> 
   <a href="https://leetcode.com/Neamul_haq/">
     <img src="https://cp-logo.vercel.app/leetcode/Neamul_haq/" alt="Leet code rating" />
@@ -27,19 +27,14 @@
 <td width="50%" align="left">
   
   <h3 align="center">Bio</h3>
-  
-- :fire: Interested in Competitive Programming;
+
 - :calendar: Looking to contribute to web-based open source projects
-- 📆 Looking For Software Engineering Role
 - 📝 Checkout my <a href="https://drive.google.com/file/d/1FlDKvzotDJe2Lj1OO5YjjidRSrRv7Ndr/view?usp=sharing" target="_blank">Resume</a>
   
 </td>
  <td width="50%" align="left">
 
 - ⚙️ I use daily: `.cpp`, `.py`
-- 🌍 I'm mostly active within the **Cpusplus Community**
-- 🌱 Learning all about **Competitive Programming**, **WebBackend**
-- 💬 Ping me about **Cpp**, **Problem-Setting**, **Problem-Testing**, **Competitive-Training**, **Projects**
 - 📫 Reach me: **neamul.cse6.bu@gmail.com**
   
   </td>
