@@ -118,7 +118,7 @@
 <img height="280em" src="https://github.com/neamul-haq/cf-statistics/blob/main/output/light_card.svg#gh-dark-mode-only." />
 </span>
 <span float="right">
-  <img height="273em" width="40%" src="https://leetcard.jacoblin.cool/Neamul_haq?theme=light&font=Karma&ext=contest" />
+  <img height="280em" width="50%" src="https://leetcard.jacoblin.cool/Neamul_haq?theme=light&font=Karma&ext=contest" />
 </span>
 <h3 align="center">My Statistics:</h3>
 <p align="center">
