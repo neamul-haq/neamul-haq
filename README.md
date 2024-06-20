@@ -28,10 +28,10 @@
   
   <h3 align="center">Bio</h3>
   
-- ✨ Undergraduate Student
 - :fire: Interested in Competitive Programming;
 - :calendar: Looking to contribute to web-based open source projects
 - 📆 Looking For Software Engineering Role
+- 📝 Checkout my <a href="https://drive.google.com/file/d/1FlDKvzotDJe2Lj1OO5YjjidRSrRv7Ndr/view?usp=sharing" target="_blank">Resume</a>
   
 </td>
  <td width="50%" align="left">
