@@ -56,6 +56,7 @@
   <li> 💡<a href = "https://ugv.edu.bd](https://bapsoj.org/contests/icpc-dhaka-regional-site-2023/standings">Ranked 117<sup>th</sup> in International Collegiate Programming Contest(ICPC)-2023.</a> </li>
   <li> 💡<a href = "https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings">Ranked  106<sup>th</sup> in National Collegiate Programming Contest(NCPC)-2024.</a> </li>
   <li> 💡 Secured 2<sup>nd</sup> position at Phitron Monthly Contest-2023. </li>
+  <li> 💡 <a href = "https://codeforces.com/gym/532329">Secured 3<sup>rd</sup> position at Intra Department Programming Contest 2024-CSE,BU.</a> </li>
   <li> 💡 <a href = "https://www.hackerrank.com/contests/intra-department-programming-contest-2023-csebu/leaderboard">Secured 11<sup>th</sup> position at Intra Department Programming Contest 2023-CSE,BU.</a> </li>
   <li> 💡 Participate in SUST, CUET IUPCs Onsite Team Contests</li>
 </ul>
