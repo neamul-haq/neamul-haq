@@ -58,7 +58,9 @@
   <li> 💡 Secured 2<sup>nd</sup> position at Phitron Monthly Contest-2023. </li>
   <li> 💡 <a href = "https://codeforces.com/gym/532329">Secured 3<sup>rd</sup> position at Intra Department Programming Contest 2024-CSE,BU.</a> </li>
   <li> 💡 <a href = "https://www.hackerrank.com/contests/intra-department-programming-contest-2023-csebu/leaderboard">Secured 11<sup>th</sup> position at Intra Department Programming Contest 2023-CSE,BU.</a> </li>
-  <li> 💡 Participate in SUST, CUET IUPCs Onsite Team Contests</li>
+<!--   <li> 💡 Participate in SUST, CUET IUPCs Onsite Team Contests</li> -->
+  <li> 💡 <a href = "https://toph.co/c/cuet-inter-university-codestorm-1-0/standings">Ranked 73<sup>rd</sup> at  CUET IUPC 2024 (Team name: BU_Phantoms).</a> </li>
+  <li> 💡 <a href = "https://toph.co/c/inter-university-sust-cse-carnival-2024/standings">Ranked 109<sup>th</sup> at  SUST  IUPC 2024 (Team name: BU MatrixMinds).</a> </li>
 </ul>
 
 ### Problem-Solving Profile
