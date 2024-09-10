@@ -27,7 +27,7 @@
 <td width="50%" align="left">
 
 - :calendar: Looking to contribute to web-based open-source projects
-- 📝 Checkout my <a href="https://drive.google.com/file/d/1W68Pun3SR52VDI_P2DZTgHYfIbIDrPW5/view?usp=sharing" target="_blank">Resume</a>
+- 📝 Checkout my <a href="https://drive.google.com/file/d/1m4LR0r-RHk4cD3Sv6gXw6lMCSYR4XMoe/view?usp=sharing" target="_blank">Resume</a>
   
 </td>
  <td width="50%" align="left">
