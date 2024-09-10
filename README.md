@@ -68,8 +68,8 @@
 | -- | -------- | ----------- | -------| -------|          
 | Codeforces | [Neyamul_Haq](https://codeforces.com/profile/Neyamul_Haq)| 729 | 1384 | 88 |
 | Codechef | [no_one22](https://www.codechef.com/users/no_one22) | 167 | 1642 | 25 |
-| Leetcode | [Neamul_haq](https://leetcode.com/Neamul_haq/) | 215 | - | - |
-| Vjudge | [BU0634_neamul](https://vjudge.net/user/neamul_haq) | - | - | 15 |
+| Leetcode | [Neamul_haq](https://leetcode.com/Neamul_haq/) | 235 | 1445 | - |
+| Vjudge | [BU0634_neamul](https://vjudge.net/user/neamul_haq) | - | - | 25 |
 
 ---
 <h3 align="center">Connect With Me:</h3>
