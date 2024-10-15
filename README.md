@@ -43,7 +43,7 @@
 <ul>
   <li> 🎓 Completed Bachelor of Science degree from <a href = "https://bu.ac.bd/"> University of Barishal, Barishal, Bangladesh. </a> </li>
   <li> 💡 Participated in various Onsite contests like ACM ICPC Onsites, IUPC's. </li>
-  <li> 💡 Solved more than 1.3K problems and participated more than 130 contests on different online judges like: <a href="https://codeforces.com/profile/Neyamul_Haq">Codeforces</a>, <a href="https://www.codechef.com/users/no_one22">CodeChef</a>,  
+  <li> 💡 Solved more than 1400 problems and participated more than 150 contests on different online judges like: <a href="https://codeforces.com/profile/Neyamul_Haq">Codeforces</a>, <a href="https://www.codechef.com/users/no_one22">CodeChef</a>,  
     <a href="https://leetcode.com/Neamul_haq/">LeetCode</a>, <a href="https://lightoj.com/user/neamul_0634">LightOJ</a>, <a href="https://cses.fi/user/147071">CSES</a>, etc. </li>
   <li> 📖 Built a strong foundation on Data Structures and Algorithms. </li>
   <!---
@@ -68,7 +68,7 @@
 | -- | -------- | ----------- | -------| -------|          
 | Codeforces | [Neyamul_Haq](https://codeforces.com/profile/Neyamul_Haq)| 729 | 1384 | 88 |
 | Codechef | [no_one22](https://www.codechef.com/users/no_one22) | 167 | 1642 | 25 |
-| Leetcode | [Neamul_haq](https://leetcode.com/Neamul_haq/) | 235 | 1445 | - |
+| Leetcode | [Neamul_haq](https://leetcode.com/Neamul_haq/) | 245 | 1445 | - |
 | Vjudge | [BU0634_neamul](https://vjudge.net/user/neamul_haq) | - | - | 25 |
 
 ---
