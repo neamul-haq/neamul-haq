@@ -60,16 +60,16 @@
   <li> 💡 <a href = "https://www.hackerrank.com/contests/intra-department-programming-contest-2023-csebu/leaderboard">Secured 11<sup>th</sup> position at Intra Department Programming Contest 2023-CSE,BU.</a> </li>
 <!--   <li> 💡 Participate in SUST, CUET IUPCs Onsite Team Contests</li> -->
   <li> 💡 <a href = "https://toph.co/c/cuet-inter-university-codestorm-1-0/standings">Ranked 73<sup>rd</sup> at  CUET IUPC 2024 (Team name: BU_Phantoms).</a> </li>
-  <li> 💡 <a href = "https://toph.co/c/inter-university-sust-cse-carnival-2024/standings">Ranked 109<sup>th</sup> at  SUST  IUPC 2024 (Team name: BU MatrixMinds).</a> </li>
+  <li> 💡 <a href = "https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2024/standings">Ranked 167<sup>th</sup> at ICPC PRELIMINARY DHAKA SITE 2024.</a> </li>
 </ul>
 
 ### Problem-Solving Profile
 | OJ | Username | No. of Problem | Max Rating | No. of Contest |
 | -- | -------- | ----------- | -------| -------|          
-| Codeforces | [Neyamul_Haq](https://codeforces.com/profile/Neyamul_Haq)| 729 | 1384 | 88 |
+| Codeforces | [Neyamul_Haq](https://codeforces.com/profile/Neyamul_Haq)| 754 | 1384 | 88 |
 | Codechef | [no_one22](https://www.codechef.com/users/no_one22) | 167 | 1642 | 25 |
-| Leetcode | [Neamul_haq](https://leetcode.com/Neamul_haq/) | 245 | 1445 | - |
-| Vjudge | [BU0634_neamul](https://vjudge.net/user/neamul_haq) | - | - | 25 |
+| Leetcode | [Neamul_haq](https://leetcode.com/Neamul_haq/) | 237 | 1445 | - |
+| Vjudge | [BU0634_neamul](https://vjudge.net/user/neamul_haq) | - | - | 50 |
 
 ---
 <h3 align="center">Connect With Me:</h3>
