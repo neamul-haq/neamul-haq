@@ -43,7 +43,7 @@
 <ul>
   <li> 🎓 Completed Bachelor of Science degree from <a href = "https://bu.ac.bd/"> University of Barishal, Barishal, Bangladesh. </a> </li>
   <li> 💡 Participated in various Onsite contests like ACM ICPC Onsites, IUPC's. </li>
-  <li> 💡 Solved more than 1400 problems and participated more than 150 contests on different online judges like: <a href="https://codeforces.com/profile/Neyamul_Haq">Codeforces</a>, <a href="https://www.codechef.com/users/no_one22">CodeChef</a>,  
+  <li> 💡 Solved more than 1600 problems and participated more than 160 contests on different online judges like: <a href="https://codeforces.com/profile/Neyamul_Haq">Codeforces</a>, <a href="https://www.codechef.com/users/no_one22">CodeChef</a>,  
     <a href="https://leetcode.com/Neamul_haq/">LeetCode</a>, <a href="https://lightoj.com/user/neamul_0634">LightOJ</a>, <a href="https://cses.fi/user/147071">CSES</a>, etc. </li>
   <li> 📖 Built a strong foundation on Data Structures and Algorithms. </li>
   <!---
@@ -54,6 +54,7 @@
 ### My Achievements
 <ul>
   <li> 💡<a href = "https://ugv.edu.bd](https://bapsoj.org/contests/icpc-dhaka-regional-site-2023/standings">Ranked 117<sup>th</sup> in International Collegiate Programming Contest(ICPC)-2023.</a> </li>
+  <li> 💡<a href = "https://ugv.edu.bd](https://bapsoj.org/contests/icpc-asia-dhaka-regional-contest-2024-onsite-round/standings">Ranked 128<sup>th</sup> in International Collegiate Programming Contest(ICPC)-2024.</a> </li>
   <li> 💡<a href = "https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings">Ranked  106<sup>th</sup> in National Collegiate Programming Contest(NCPC)-2024.</a> </li>
   <li> 💡 Secured 2<sup>nd</sup> position at Phitron Monthly Contest-2023. </li>
   <li> 💡 <a href = "https://codeforces.com/gym/532329">Secured 3<sup>rd</sup> position at Intra Department Programming Contest 2024-CSE,BU.</a> </li>
@@ -66,10 +67,10 @@
 ### Problem-Solving Profile
 | OJ | Username | No. of Problem | Max Rating | No. of Contest |
 | -- | -------- | ----------- | -------| -------|          
-| Codeforces | [Neyamul_Haq](https://codeforces.com/profile/Neyamul_Haq)| 754 | 1384 | 80 |
-| Codechef | [no_one22](https://www.codechef.com/users/no_one22) | 167 | 1642 | 25 |
-| Leetcode | [Neamul_haq](https://leetcode.com/Neamul_haq/) | 237 | 1445 | - |
-| Vjudge | [BU0634_neamul](https://vjudge.net/user/neamul_haq) | - | - | 50 |
+| Codeforces | [Neyamul_Haq](https://codeforces.com/profile/Neyamul_Haq)| 901 | 1384 | 82 |
+| Codechef | [no_one22](https://www.codechef.com/users/no_one22) | 203 | 1642 | 31 |
+| Leetcode | [Neamul_haq](https://leetcode.com/Neamul_haq/) | 241 | - | - |
+| Vjudge | [BU0634_neamul](https://vjudge.net/user/neamul_haq) | - | - | 52 |
 
 ---
 <h3 align="center">Connect With Me:</h3>
