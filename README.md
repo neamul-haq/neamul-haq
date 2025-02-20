@@ -68,7 +68,7 @@
 | OJ | Username | No. of Problem | Max Rating | No. of Contest |
 | -- | -------- | ----------- | -------| -------|          
 | Codeforces | [Neyamul_Haq](https://codeforces.com/profile/Neyamul_Haq)| 901 | 1384 | 82 |
-| Codechef | [no_one22](https://www.codechef.com/users/no_one22) | 203 | 1642 | 31 |
+| Codechef | [no_one22](https://www.codechef.com/users/no_one22) | 203 | 1696 | 31 |
 | Leetcode | [Neamul_haq](https://leetcode.com/Neamul_haq/) | 241 | - | - |
 | Vjudge | [BU0634_neamul](https://vjudge.net/user/neamul_haq) | - | - | 52 |
 
